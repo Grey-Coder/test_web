@@ -5,7 +5,7 @@
 -->
 <p align="center"><h1 align="center">TEST_WEB</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ GrayCoder</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/Grey-Coder/test_web?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -20,35 +20,8 @@
 </p>
 <br>
 
-##  Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Project Structure](#-project-structure)
-  - [ Project Index](#-project-index)
-- [ Getting Started](#-getting-started)
-  - [ Prerequisites](#-prerequisites)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 
----
-
-##  Overview
-
-<code>❯ REPLACE-ME</code>
-
----
-
-##  Features
-
-<code>❯ REPLACE-ME</code>
-
----
 
 ##  Project Structure
 
@@ -116,26 +89,7 @@ Install test_web using one of the following methods:
 ❯ cd test_web
 ```
 
-3. Install the project dependencies:
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-
-
-###  Usage
-Run test_web using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
 
 ---
 
@@ -179,17 +133,5 @@ echo 'INSERT-TEST-COMMAND-HERE'
    </a>
 </p>
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---
